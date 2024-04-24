@@ -1,9 +1,9 @@
 # 20240417_Tangerine_Data
 
-Link : 
+Link : https://dacon.io/competitions/official/236176/leaderboard
 
 ## Goals
-
+특산물 가격 예측
 
 ## Dataset
 
